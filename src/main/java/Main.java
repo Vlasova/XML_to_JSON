@@ -1,6 +1,4 @@
-package ru.vlasova.xml_to_json;
-
-import ru.vlasova.xml_to_json.Service.Service;
+import Service.Service;
 import java.io.IOException;
 
 public class Main {
